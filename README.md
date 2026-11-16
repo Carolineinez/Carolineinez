@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090611,40:32145C,100:9B5DE5&height=200&section=header&text=OL%C3%81,%20MUNDO!&fontSize=42&fontColor=E9D5FF&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20espa%C3%A7o%20digital&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090611,40:32145C,100:9B5DE5&height=200&section=header&text=HELLO,%20WORLD!&fontSize=42&fontColor=E9D5FF&fontAlignY=38&desc=Bem-vindo%20ao%20meu%20espa%C3%A7o%20digital&descAlignY=60&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%7C+Futura+Desenvolvedora;Explorando+o+mundo+da+tecnologia;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Aprendendo%2C+construindo+e+evoluindo." />
 
