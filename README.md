@@ -22,31 +22,6 @@ My journey in technology started with curiosity and became a passion for creatin
 
 I'm currently developing my skills in software development, databases and web technologies. I believe that learning is a continuous process, and every project is an opportunity to become a better developer.
 
-```yaml
-developer:
-  name: Caroline Inez
-  course: Systems Analysis and Development
-  institution: Centro Universitário Senac
-  program: Embarque Digital
-  location: Recife, Pernambuco - Brazil
-
-interests:
-  - Software Development
-  - Web Development
-  - Databases
-  - Technology and Innovation
-  - Accessibility and Inclusion
-
-currently:
-  - Learning Java
-  - Improving SQL skills
-  - Exploring JavaScript
-  - Building practical projects
-  - Developing my portfolio
-
-goal: Become a Software Developer
-```
-
 ---
 
 ## 💻 TECHNOLOGY STACK
@@ -71,36 +46,19 @@ goal: Become a Software Developer
 
 ## 🚀 CURRENT OBJECTIVES
 
-```bash
+```text
 ┌── caroline@purple-system
 │
-├── [01] Mastering Java fundamentals
-├── [02] Improving database knowledge (SQL)
-├── [03] Building web development projects
-├── [04] Improving problem-solving skills
-├── [05] Creating a strong GitHub portfolio
-├── [06] Exploring internship opportunities in IT
+├── [01] Mastering Java fundamentals (OOP)
+├── [02] Improving SQL: queries, joins and modeling
+├── [03] Building my first web projects
+├── [04] Practicing logic with coding challenges
+├── [05] Publishing projects on GitHub
+├── [06] Looking for an IT internship
 │
 └── STATUS: CONSTANTLY EVOLVING_
 ```
 
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carolineinez&show_icons=true&hide_border=true&bg_color=090611&title_color=C9A7FF&icon_color=9B5DE5&text_color=E9D5FF&ring_color=9B5DE5&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolineinez&layout=compact&hide_border=true&bg_color=090611&title_color=C9A7FF&text_color=E9D5FF" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolineinez&background=090611&ring=9B5DE5&fire=C9A7FF&currStreakLabel=C9A7FF&sideLabels=E9D5FF&dates=9B5DE5&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 LET'S CONNECT
 
